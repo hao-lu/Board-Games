@@ -1,0 +1,2 @@
+### Board Games
+This program allows the user to choose between three different board games: Othello (reversi), Connect Four, and Tic- tac-toe; it also checks for the validity of the move, and determines a winner
